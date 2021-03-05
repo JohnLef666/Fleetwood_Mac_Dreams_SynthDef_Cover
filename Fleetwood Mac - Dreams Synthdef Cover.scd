@@ -1,5 +1,3 @@
-s.boot;
-
 // Basic drum kit
 (
 SynthDef("hihat", {arg out = 0, amp = 0.5, att = 0.01, rel = 0.2, ffreq = 6000, pan = 0;
