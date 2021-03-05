@@ -1,5 +1,5 @@
 
-**Sonic Arts and Audio Technologies MA| Ionian University**
+**Sonic Arts and Audio Technologies MA | Ionian University**
 
 **Music Programming Final Project**
 
